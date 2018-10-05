@@ -1,0 +1,43 @@
+FOSS Libraries for Geospatial Analysis
+
+Satelllite images are normally in tiff file format
+
+----------------------------------------------------
+
+Gallilio Gallelli relation woth jupyter
+
+Netflix open sourced?? (Docker)
+
+Using jupyter hub (Kubernetes cluster)
+
+QGIS - Open Source, for research based GIS 
+
+Google Earth
+
+---------------------------------------------------
+
+raster - PNG with bounding box and label
+
+---------------------------------------------------
+
+Open Street Map (OSM)
+
+postgis, rtree
+
+shape file vs geojson file
+
+---------------------------------------------------
+
+Checkout docker use and setit up on windows & ubuntu 
+
+---------------------------------------------------
+
+Google Earth Engine - Free, but by invitation
+
+----------------------------------------------------
+
+Advance - Geometric Network, Mapbox
+
+----------------------------------------------------
+
+
