@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "place_name": "A polygon" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 78.233822, 17.393613 ], [ 78.317881, 17.382033 ], [ 78.253307, 17.347475 ], [ 78.233822, 17.393613 ] ] ] } },
+{ "type": "Feature", "properties": { "place_name": "B polygon" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 78.301435, 17.471475 ], [ 78.328037, 17.405862 ], [ 78.271997, 17.41456 ], [ 78.301435, 17.471475 ] ] ] } },
+{ "type": "Feature", "properties": { "place_name": "C polygon" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 78.372459, 17.47376 ], [ 78.377555, 17.473006 ], [ 78.376529, 17.46926 ], [ 78.370614, 17.469482 ], [ 78.372459, 17.47376 ] ] ] } }
+]
+}

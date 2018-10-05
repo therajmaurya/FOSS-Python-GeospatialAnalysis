@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "place_name": "l1" }, "geometry": { "type": "LineString", "coordinates": [ [ 78.37359, 17.472863 ], [ 78.473351, 17.425509 ] ] } },
+{ "type": "Feature", "properties": { "place_name": "l2" }, "geometry": { "type": "LineString", "coordinates": [ [ 78.473351, 17.425509 ], [ 78.474656, 17.361634 ] ] } },
+{ "type": "Feature", "properties": { "place_name": "l3" }, "geometry": { "type": "LineString", "coordinates": [ [ 78.474656, 17.361634 ], [ 78.37359, 17.472863 ] ] } }
+]
+}

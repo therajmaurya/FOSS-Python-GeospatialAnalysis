@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "place_name": "Pycon India 2018" }, "geometry": { "type": "Point", "coordinates": [ 78.37359, 17.472863 ] } },
+{ "type": "Feature", "properties": { "place_name": "Hussain Sagar lake" }, "geometry": { "type": "Point", "coordinates": [ 78.473351, 17.425509 ] } },
+{ "type": "Feature", "properties": { "place_name": "CHarminar" }, "geometry": { "type": "Point", "coordinates": [ 78.474656, 17.361634 ] } }
+]
+}
